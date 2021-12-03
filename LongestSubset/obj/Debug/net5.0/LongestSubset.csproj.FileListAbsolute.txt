@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\LongestSubset.exe
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\LongestSubset.deps.json
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\LongestSubset.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\LongestSubset.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\LongestSubset.dll
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\ref\LongestSubset.dll
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\bin\Debug\net5.0\LongestSubset.pdb
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.dll
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\ref\LongestSubset.dll
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.pdb
+C:\Users\HP\Desktop\CodeChallenge\LongestSubset\obj\Debug\net5.0\LongestSubset.genruntimeconfig.cache
