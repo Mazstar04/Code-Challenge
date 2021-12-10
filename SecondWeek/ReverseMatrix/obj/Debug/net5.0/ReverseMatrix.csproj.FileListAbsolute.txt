@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ReverseMatrix.exe
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ReverseMatrix.deps.json
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ReverseMatrix.runtimeconfig.json
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ReverseMatrix.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ReverseMatrix.dll
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ref\ReverseMatrix.dll
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\bin\Debug\net5.0\ReverseMatrix.pdb
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.AssemblyInfo.cs
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.dll
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ref\ReverseMatrix.dll
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.pdb
+C:\Users\HP\Desktop\CodeChallenge\SecondWeek\ReverseMatrix\obj\Debug\net5.0\ReverseMatrix.genruntimeconfig.cache

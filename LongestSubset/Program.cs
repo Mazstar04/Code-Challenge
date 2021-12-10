@@ -8,8 +8,10 @@ namespace LongestSubset
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine(LongestSubset(new int[] { 19, 10,  12, 24, 10,  25, 22 }, 4));
+            int a = 3, b = 10, c = 5___3__2;
+            (b , a , c) = (a, c, b);
+            Console.WriteLine($"{a} - {b} -{c}");
+            //Console.WriteLine(LongestSubset(new int[] { 1, 7, 2, 4 }, 3));
         }
 
         public static int LongestSubset(int[] s, int k)
